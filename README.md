@@ -4,8 +4,12 @@ Hi! This is floody - a simple program that allows you to flood to someone reeall
 
 # How to use?
 
-In terminal: python3 floody_new.py 
-or 	     python3 floody_mult.py
+In terminal:
+ 
+```python3 floody_new.py```
+
+```python3 floody_mult.py```
+
 (Depending on script you want to use)
 
 ## To install:
