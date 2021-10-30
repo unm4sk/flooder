@@ -6,9 +6,13 @@ Hi! This is floody - a simple program that allows you to flood to someone reeall
 
 In terminal:
  
-```python3 floody_new.py```
+```
+python3 floody_new.py
+```
 
-```python3 floody_mult.py```
+```
+python3 floody_mult.py
+```
 
 (Depending on script you want to use)
 
