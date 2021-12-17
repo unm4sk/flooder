@@ -9,7 +9,7 @@ In terminal:
 ```
 python3 floody_new.py
 ```
-
+or
 ```
 python3 floody_mult.py
 ```
